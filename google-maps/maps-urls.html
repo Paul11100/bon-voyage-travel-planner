@@ -1,0 +1,19 @@
+<form action="https://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
+
+<button class="btn btn-success" onclick="window.open('http://google.com','_blank')"> Open Google in New Tab</button>
+
+<!-- Now we have the basic buttons, we create a map query and open the path in a new tab -->
+
+<h2>Buttons to open google maps</h2>
+
+<h3>Locations</h3>
+<!-- ?api=1&query=PLACE_NAME_OR_COORDS&query_place_id=PLACE_ID -->
+<button class="btn btn-success" onclick="window.open('https://www.google.com/maps/search/?api=1&query=Panthéon&query_place_id=ChIJc8mX0udx5kcRWKcjTwDr5QA','_blank')"> Pantheon</button>
+<button class="btn btn-success" onclick="window.open('https://www.google.com/maps/search/?api=1&query=Louvre+Museum&query_place_id=ChIJD3uTd9hx5kcR1IQvGfr8dbk','_blank')"> Louvre Museum</button>
+<button class="btn btn-success" onclick="window.open('https://www.google.com/maps/search/?api=1&query=Eiffel+Tower','_blank')"> Eiffel Tower</button>
+
+<h3>Directions</h3>
+<!-- ?api=1&origin=SMT&destination=SMT&waypoints=SMT -->
+<button class="btn btn-success" onclick="window.open('https://www.google.com/maps/dir/?api=1&origin=Eiffel+Tower&destination=Panthéon&destination_place_id=ChIJc8mX0udx5kcRWKcjTwDr5QA&waypoints=Louvre+Museum','_blank')"> Optimal Route</button>
