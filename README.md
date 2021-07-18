@@ -90,7 +90,7 @@ Most importantly, we hope to make our website more functional, and accessible.
 
 ## ACKNOWLEDGEMENTS
 
-1. [Mr Ridwan Olanrewaju](https://github.com/ibnlanre) — @ibnlanre on all social media platforms
+1. [Mr Ridwan Olanrewaju](https://github.com/ibnlanre) — @ibnlanre on all social media platforms.
 
 <br />
 
