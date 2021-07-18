@@ -88,6 +88,16 @@ Most importantly, we hope to make our website more functional, and accessible.
 
 <br />
 
+## ACKNOWLEDGEMENTS
+
+1. [Mr Ridwan Olanrewaju](https://github.com/ibnlanre) — @ibnlanre on all social media platforms
+
+<br />
+
+***
+
+<br />
+
 **DISCLAIMER**: _Our website is currently available with only selected places (origin and destination) by us, the developers._
 
 _Copyright © 2021 by_ **Pykic** _for [Bon Voyage Hacks](https://bonvoyagehacks.devpost.com)._
