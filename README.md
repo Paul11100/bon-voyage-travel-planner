@@ -1,6 +1,6 @@
 ## INSPIRATION
 
-With the entire event of the pandemic on the world and the annual summer break coming soon, everyone's excited to sit back and relax, probably even go places for sightseeing. Whichever it is, Pykic Adventure is ready to help. With just three clicks on our website which allows you to choose an origin and a destination, you get a detailed map ready to journey you far, far away to your desired centre using the best route that's fastest, easiest and shortest. 
+With the entire event of the pandemic on the world and the annual summer break coming soon, everyone's excited to sit back and relax, probably even go places for sightseeing. Whichever it is, Pykic Planner is ready to help. With just three clicks on our website which allows you to choose an origin and a destination, you get a detailed map ready to journey you far, far away to your desired centre using the best route that's fastest, easiest and shortest. 
 
 <br /> 
 
