@@ -30,7 +30,7 @@ Our project automatically generates a suitable map for the journey — either by
 
 ## BUILDING PHASE
 
-We started building using [MyMaps](https://mymaps.google.com).
+We started building using [MyMaps](https://mymaps.google.com). We first designed a prototype on Figma to assist us with the website which we coded in HTML and Tailwind CSS we built. Once a user inputs his/her starting and stopping location with our picked locations, a link redirects to a detailed route on Google Maps is set below to allow the user to go about the journey effectively.
 
 <br />
 
@@ -40,17 +40,7 @@ We started building using [MyMaps](https://mymaps.google.com).
 
 ## CHALLENGES 
 
-1. **Aisha**: 
-
-2. **Kevin**:
-
-3. **Paul**:
-
-4. **Priya**:
-
-5. **Caijun**:
-
-6. **Ajay**: 
+As the majority of our team are first-timers, we did not know how to work with the Google Maps API we needed to make the entire map function. The team's tech stacks were mostly around C, React, Python, and Java, making it difficult to code in  HTML, CSS, and JavaScript. The time difference also contributed to one of our major setbacks as we were unable to properly communicate our ideas.
 
 <br /> 
 
@@ -60,7 +50,7 @@ We started building using [MyMaps](https://mymaps.google.com).
 
 ## ACCOMPLISHMENTS 
 
-Coming up with this idea within a short span of a day and a half coupled with the finishing of this project is our major accomplishment despite the few setbacks and time differences.
+Coming up with this idea within a short span of a day and a half coupled with the finishing of this project is our major accomplishment despite the few setbacks and time differences. We are also glad we could come up with an idea that could help the majority of humanity (especially, tourists). We had fun hacking together as a team, and we got to know more about ourselves.
 
 <br />
 
@@ -72,12 +62,13 @@ Coming up with this idea within a short span of a day and a half coupled with th
 
 Names | Things Learnt
 ------------ | -------------
-Aisha | Content 
-Kevin | Content 
-Paul | Content
-Priya | Content
-Caijun | Content
-Ajay | Content
+Priya | Connecting a custom domain on [Repl.it](https://replit.com).
+Aisha | Designing a map for a user's journey.
+Kevin | Programming in HTML.
+Paul | Setting up Google Maps API to embed
+| | and generate maps.
+Caijun | Building a database.
+Ajay | Video editing. 
 
 <br />
 
@@ -87,7 +78,9 @@ Ajay | Content
 
 ## FUTURE UPGRADES
 
-We hope to include a drop-down menu for allowing our users to choose their desired days for taking off. Through this, our project would present them with multiple time options they can choose to go during that particular day(s) with a detailed analysis of how traffic would affect their journey, time estimate and cost(s) of the journey. 
+We hope to include an effective drop-down menu for allowing our users to choose their desired days for taking off. Through this, our project would present them with multiple time options they can choose to go during that particular day(s) with a detailed analysis of how traffic would affect their journey, time estimate and cost(s) of the journey. 
+
+Most importantly, we hope to make our website more functional, and accessible. 
 
 <br />
 
